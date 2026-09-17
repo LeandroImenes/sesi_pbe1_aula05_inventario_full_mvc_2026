@@ -8,11 +8,13 @@ function autoIncrement() {
     return ultimoId + 1;
 }
 
+//cruds
 const create = (req, res) => {
     const dados = req.body;
     dados.id = autoIncrement();
     bens.push(dados);
-    res.status(201).json(dados);
+    // res.status(201).json(dados);
+    res.redirect("http://127.0.0.1:5500/client/index.html")
 };
 
 const read = (req, res) => {
