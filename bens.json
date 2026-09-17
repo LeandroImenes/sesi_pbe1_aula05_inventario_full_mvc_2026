@@ -1,0 +1,25 @@
+[{
+    "id": "1",
+    "item": "Notebook Dell",
+    "local": "Laboratório 01",
+    "dataRegistro": "2026-09-01",
+    "valor": 3500.00,
+    "patrimonio": "PAT-0025"
+},
+{
+    "id": "2",
+    "item": "Mesa de Escritório",
+    "local": "Diretoria",
+    "dataRegistro": "2026-09-10",
+    "valor": 780.00,
+    "patrimonio": "PAT-0126"
+},
+{
+    "id": "3",
+    "item": "Ar Condicionado Brastemp",
+    "local": "Sala de Aula 09",
+    "dataRegistro": "2026-09-01",
+    "valor": 12000.00,
+    "patrimonio": "PAT-0127"
+}
+]
